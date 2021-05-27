@@ -1,2 +1,2 @@
-# deep-work-summary
+# Deep Work (summary)
 
