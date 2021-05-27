@@ -7,5 +7,3 @@ tags:
 This is my personal Zettelkasten for all my tech-related notes.
 
 - [[book-summaries]]
-
-- [[faq]]
